@@ -8,10 +8,9 @@ https://teclab.uct.cl/~catalina.salas/Talleres/bootstrap/taller_5.html
 https://github.com/Cjara17/Boostrap.git)
 
 ## Herramientas Utilizadas
-- HTML5
+- HTML
 - Bootstrap 5.3.3
-- CSS3
-- JavaScript
+
 
 ## Uso de Inteligencia Artificial
 Este proyecto fue desarrollado con la asistencia de Claude AI (Cursor IDE) para las siguientes tareas:
